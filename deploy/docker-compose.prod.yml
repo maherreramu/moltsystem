@@ -1,0 +1,18 @@
+services:
+  moltsystem:
+    image: ghcr.io/molt-sas/moltsystem:${IMAGE_TAG:-latest}
+    restart: unless-stopped
+    environment:
+      SUPABASE_SECRET_KEY: ${SUPABASE_SECRET_KEY}
+      REVALIDATE_SECRET: ${REVALIDATE_SECRET}
+      # NEXT_PUBLIC_* están horneadas en la imagen durante el build
+    networks:
+      - web_proxy
+      - internal
+    # Sin ports expuestos: Caddy accede al contenedor por nombre (moltsystem:3000) via web_proxy
+
+networks:
+  web_proxy:
+    external: true
+  internal:
+    internal: true

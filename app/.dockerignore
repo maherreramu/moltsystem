@@ -1,0 +1,12 @@
+node_modules
+.next
+.env*
+*.log
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+.vscode
+coverage
+.next/cache

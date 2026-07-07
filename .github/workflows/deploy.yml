@@ -1,0 +1,130 @@
+name: Build & Deploy
+
+on:
+  push:
+    branches: [main]
+
+env:
+  REGISTRY: ghcr.io
+  IMAGE_NAME: molt-sas/moltsystem
+
+jobs:
+  # ──────────────────────────────────────────────────────────────────────────
+  # JOB 1: Build + push imagen a GHCR
+  # ──────────────────────────────────────────────────────────────────────────
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    outputs:
+      image_tag: ${{ steps.meta.outputs.version }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Log in to GHCR
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.REGISTRY }}
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3
+
+      - name: Extract metadata (tags)
+        id: meta
+        uses: docker/metadata-action@v5
+        with:
+          images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+          tags: |
+            type=sha,prefix=sha-,format=short
+            type=raw,value=latest,enable={{is_default_branch}}
+
+      - name: Build and push
+        uses: docker/build-push-action@v6
+        with:
+          context: ./app
+          push: true
+          tags: ${{ steps.meta.outputs.tags }}
+          build-args: |
+            NEXT_PUBLIC_SUPABASE_URL=${{ secrets.NEXT_PUBLIC_SUPABASE_URL }}
+            NEXT_PUBLIC_SUPABASE_ANON_KEY=${{ secrets.NEXT_PUBLIC_SUPABASE_ANON_KEY }}
+          cache-from: type=gha
+          cache-to: type=gha,mode=max
+
+      - name: Upload docker-compose
+        uses: actions/upload-artifact@v4
+        with:
+          name: docker-compose
+          path: deploy/docker-compose.prod.yml
+          retention-days: 1
+
+  # ──────────────────────────────────────────────────────────────────────────
+  # JOB 2: Deploy al VPS
+  # Solo descarga la imagen + docker-compose. Sin repo completo, sin .env.
+  # El GITHUB_TOKEN es efímero: expira al terminar el workflow.
+  # ──────────────────────────────────────────────────────────────────────────
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      packages: read
+
+    steps:
+      - name: Download docker-compose
+        uses: actions/download-artifact@v4
+        with:
+          name: docker-compose
+          path: deploy/
+
+      - name: Copiar docker-compose al VPS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          source: deploy/docker-compose.prod.yml
+          target: /tmp/moltsystem-deploy
+          strip_components: 1
+
+      - name: Deploy en VPS
+        uses: appleboy/ssh-action@v1
+        env:
+          GHCR_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: ${{ github.actor }}
+          IMAGE_TAG: ${{ needs.build.outputs.image_tag }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          REVALIDATE_SECRET: ${{ secrets.REVALIDATE_SECRET }}
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          envs: GHCR_TOKEN,GITHUB_ACTOR,IMAGE_TAG,SUPABASE_SECRET_KEY,REVALIDATE_SECRET
+          script: |
+            # Mover compose desde /tmp con sudo (evita problemas de permisos en el destino)
+            sudo mkdir -p "${{ vars.VPS_APP_PATH }}"
+            sudo mv /tmp/moltsystem-deploy/docker-compose.prod.yml "${{ vars.VPS_APP_PATH }}/docker-compose.prod.yml"
+
+            # Login efímero — GITHUB_TOKEN expira al terminar el workflow; docker logout revoca antes
+            echo "$GHCR_TOKEN" | sudo docker login ghcr.io -u "$GITHUB_ACTOR" --password-stdin
+
+            cd "${{ vars.VPS_APP_PATH }}"
+
+            # Pull imagen con el tag exacto del commit
+            sudo env IMAGE_TAG="$IMAGE_TAG" \
+              docker compose -f docker-compose.prod.yml pull
+
+            # Levantar contenedores — secretos inyectados en sesión SSH, nunca escritos en disco
+            sudo env \
+              SUPABASE_SECRET_KEY="$SUPABASE_SECRET_KEY" \
+              REVALIDATE_SECRET="$REVALIDATE_SECRET" \
+              IMAGE_TAG="$IMAGE_TAG" \
+              docker compose -f docker-compose.prod.yml up -d --remove-orphans
+
+            # Revocar token GHCR inmediatamente tras el pull
+            sudo docker logout ghcr.io
+
+            # Limpiar imágenes no usadas
+            sudo docker image prune -f

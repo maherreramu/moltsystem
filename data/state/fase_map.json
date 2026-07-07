@@ -1,0 +1,4738 @@
+{
+  "87897184": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6898-1",
+    "op_det": "6898-1-Escafandra",
+    "num_op": "6898"
+  },
+  "87897217": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6898-2",
+    "op_det": "6898-2-Escafandra",
+    "num_op": "6898"
+  },
+  "87785719": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-1",
+    "op_det": "6894-1-Chaqueta Sport",
+    "num_op": "6894"
+  },
+  "87785755": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-2",
+    "op_det": "6894-2-Chaqueta Sport",
+    "num_op": "6894"
+  },
+  "87785832": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-3",
+    "op_det": "6894-3-crocs",
+    "num_op": "6894"
+  },
+  "87785869": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-4",
+    "op_det": "6894-4-BLUSA ANTIFLUIDO",
+    "num_op": "6894"
+  },
+  "87785900": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-5",
+    "op_det": "6894-5-pantalón antifluido",
+    "num_op": "6894"
+  },
+  "87785933": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-6",
+    "op_det": "6894-6-CAMISA ANTIFLUIDO",
+    "num_op": "6894"
+  },
+  "87785960": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6894-7",
+    "op_det": "6894-7-pantalón antifluido",
+    "num_op": "6894"
+  },
+  "87733943": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-1",
+    "op_det": "6893-1-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87733973": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-2",
+    "op_det": "6893-2-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87734004": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-3",
+    "op_det": "6893-3-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87734037": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-4",
+    "op_det": "6893-4-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87734080": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-5",
+    "op_det": "6893-5-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87734109": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6893-6",
+    "op_det": "6893-6-Camisa \"Columbia\"",
+    "num_op": "6893"
+  },
+  "87723183": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6890-1",
+    "op_det": "6890-1-Peto",
+    "num_op": "6890"
+  },
+  "87650780": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6889-1",
+    "op_det": "6889-1-CAMISA MANGA LARGA",
+    "num_op": "6889"
+  },
+  "87645503": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-1",
+    "op_det": "6888-1-CAMISA MANGA LARGA",
+    "num_op": "6888"
+  },
+  "87645549": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-2",
+    "op_det": "6888-2-BLUSA MANGA LARGA",
+    "num_op": "6888"
+  },
+  "87645578": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-3",
+    "op_det": "6888-3-Pantalón dotación",
+    "num_op": "6888"
+  },
+  "87645608": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-4",
+    "op_det": "6888-4-Pantalón dotación",
+    "num_op": "6888"
+  },
+  "87645632": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-5",
+    "op_det": "6888-5-Chaqueta Clima Calido",
+    "num_op": "6888"
+  },
+  "87645659": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-6",
+    "op_det": "6888-6-Chaqueta Clima  Calido",
+    "num_op": "6888"
+  },
+  "87645687": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-7",
+    "op_det": "6888-7-bata/blusa 3/4",
+    "num_op": "6888"
+  },
+  "87645712": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-8",
+    "op_det": "6888-8-pantalon sudadera",
+    "num_op": "6888"
+  },
+  "87645740": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-9",
+    "op_det": "6888-9-Camibuso Polo Manga Larga",
+    "num_op": "6888"
+  },
+  "87645816": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-10",
+    "op_det": "6888-10-pantalon sudadera",
+    "num_op": "6888"
+  },
+  "87645842": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-11",
+    "op_det": "6888-11-Camibuso Polo Manga Larga",
+    "num_op": "6888"
+  },
+  "87645875": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-12",
+    "op_det": "6888-12-pantalon sudadera",
+    "num_op": "6888"
+  },
+  "87645909": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-13",
+    "op_det": "6888-13-Buzo / Cerrado",
+    "num_op": "6888"
+  },
+  "87645941": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-14",
+    "op_det": "6888-14-pantalon sudadera",
+    "num_op": "6888"
+  },
+  "87645967": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-15",
+    "op_det": "6888-15-pantalón  overol",
+    "num_op": "6888"
+  },
+  "87646038": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-16",
+    "op_det": "6888-16-POLO MANGA CORTA",
+    "num_op": "6888"
+  },
+  "87646064": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-17",
+    "op_det": "6888-17-T-SHIRT MANGA CORTA",
+    "num_op": "6888"
+  },
+  "87646090": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-18",
+    "op_det": "6888-18-Chaleco Liso",
+    "num_op": "6888"
+  },
+  "87646114": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-19",
+    "op_det": "6888-19-Chaqueta  Acolchada",
+    "num_op": "6888"
+  },
+  "87646144": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6888-20",
+    "op_det": "6888-20-BLUSA MANGA LARGA",
+    "num_op": "6888"
+  },
+  "87511931": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6887-1",
+    "op_det": "6887-1-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6887"
+  },
+  "87496928": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6885-1",
+    "op_det": "6885-1-crocs",
+    "num_op": "6885"
+  },
+  "87496985": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6885-2",
+    "op_det": "6885-2-crocs",
+    "num_op": "6885"
+  },
+  "87497032": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6885-3",
+    "op_det": "6885-3-crocs",
+    "num_op": "6885"
+  },
+  "87497077": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6885-4",
+    "op_det": "6885-4-Bota Puntera",
+    "num_op": "6885"
+  },
+  "87450697": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-1",
+    "op_det": "6883-1-CAMISA MANGA LARGA",
+    "num_op": "6883"
+  },
+  "87450727": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-2",
+    "op_det": "6883-2-CAMISA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87450756": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-3",
+    "op_det": "6883-3-CAMISA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87450803": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-4",
+    "op_det": "6883-4-CAMISA MANGA LARGA",
+    "num_op": "6883"
+  },
+  "87450866": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-5",
+    "op_det": "6883-5-CAMISA MANGA LARGA",
+    "num_op": "6883"
+  },
+  "87450930": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-6",
+    "op_det": "6883-6-BLUSA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87450993": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-7",
+    "op_det": "6883-7-BLUSA MANGA LARGA",
+    "num_op": "6883"
+  },
+  "87451061": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-8",
+    "op_det": "6883-8-BLUSA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87451126": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-9",
+    "op_det": "6883-9-camisa",
+    "num_op": "6883"
+  },
+  "87451192": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-10",
+    "op_det": "6883-10-BLUSA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87451263": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-11",
+    "op_det": "6883-11-BLUSA MANGA CORTA",
+    "num_op": "6883"
+  },
+  "87451326": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-12",
+    "op_det": "6883-12-BATA CHEF",
+    "num_op": "6883"
+  },
+  "87451356": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-13",
+    "op_det": "6883-13-BATA CHEF",
+    "num_op": "6883"
+  },
+  "87451380": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-14",
+    "op_det": "6883-14-BATA CHEF",
+    "num_op": "6883"
+  },
+  "87451411": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-15",
+    "op_det": "6883-15-DELANTAL MICO",
+    "num_op": "6883"
+  },
+  "87451438": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-16",
+    "op_det": "6883-16-DELANTAL TIPO PETO",
+    "num_op": "6883"
+  },
+  "87451462": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-17",
+    "op_det": "6883-17-Gorra seis cascos",
+    "num_op": "6883"
+  },
+  "87451487": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-18",
+    "op_det": "6883-18-Cofia",
+    "num_op": "6883"
+  },
+  "87451511": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-19",
+    "op_det": "6883-19-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6883"
+  },
+  "87451544": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-20",
+    "op_det": "6883-20-PANTALÓN  CALLE  DAMA",
+    "num_op": "6883"
+  },
+  "87451579": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-21",
+    "op_det": "6883-21-PANTALON RESORTADO CABALLERO",
+    "num_op": "6883"
+  },
+  "87451612": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-22",
+    "op_det": "6883-22-PANTALON RESORTADO DAMA",
+    "num_op": "6883"
+  },
+  "87451647": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6883-23",
+    "op_det": "6883-23-CAMISA MANGA LARGA",
+    "num_op": "6883"
+  },
+  "87448002": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6882-1",
+    "op_det": "6882-1-Camibuso Polo Manga Larga",
+    "num_op": "6882"
+  },
+  "87425921": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6881-1",
+    "op_det": "6881-1-Gorra seis cascos",
+    "num_op": "6881"
+  },
+  "87424045": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-1",
+    "op_det": "6880-1-PANTALÓN  CALLE  DAMA",
+    "num_op": "6880"
+  },
+  "87424121": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-2",
+    "op_det": "6880-2-CAMISA MANGA LARGA",
+    "num_op": "6880"
+  },
+  "87424153": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-3",
+    "op_det": "6880-3-POLO MANGA CORTA",
+    "num_op": "6880"
+  },
+  "87424187": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-4",
+    "op_det": "6880-4-POLO MANGA CORTA",
+    "num_op": "6880"
+  },
+  "87424261": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-5",
+    "op_det": "6880-5-BATA CHEF",
+    "num_op": "6880"
+  },
+  "87424304": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-6",
+    "op_det": "6880-6-BATA CHEF",
+    "num_op": "6880"
+  },
+  "87424336": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-7",
+    "op_det": "6880-7-DELANTAL MICO",
+    "num_op": "6880"
+  },
+  "87424407": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-8",
+    "op_det": "6880-8-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6880"
+  },
+  "87424438": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-9",
+    "op_det": "6880-9-PANTALÓN  CALLE  DAMA",
+    "num_op": "6880"
+  },
+  "87424472": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-10",
+    "op_det": "6880-10-pantalón antifluido",
+    "num_op": "6880"
+  },
+  "87424508": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-11",
+    "op_det": "6880-11-pantalón antifluido",
+    "num_op": "6880"
+  },
+  "87424537": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-12",
+    "op_det": "6880-12-T-SHIRT MANGA CORTA",
+    "num_op": "6880"
+  },
+  "87424568": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6880-13",
+    "op_det": "6880-13-T-SHIRT MANGA CORTA",
+    "num_op": "6880"
+  },
+  "87380419": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6879-1",
+    "op_det": "6879-1-overol enterizo",
+    "num_op": "6879"
+  },
+  "87377504": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6877-1",
+    "op_det": "6877-1-Porta Carné",
+    "num_op": "6877"
+  },
+  "87375235": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-1",
+    "op_det": "6875-1-Camisa  Indigo",
+    "num_op": "6875"
+  },
+  "87375266": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-2",
+    "op_det": "6875-2-Camisa  Indigo",
+    "num_op": "6875"
+  },
+  "87375298": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-3",
+    "op_det": "6875-3-camisa",
+    "num_op": "6875"
+  },
+  "87375326": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-4",
+    "op_det": "6875-4-CAMISA MANGA LARGA",
+    "num_op": "6875"
+  },
+  "87375373": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-5",
+    "op_det": "6875-5-POLO MANGA CORTA",
+    "num_op": "6875"
+  },
+  "87375480": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-6",
+    "op_det": "6875-6-BATA CHEF",
+    "num_op": "6875"
+  },
+  "87375544": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-7",
+    "op_det": "6875-7-BATA CHEF",
+    "num_op": "6875"
+  },
+  "87375605": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-8",
+    "op_det": "6875-8-DELANTAL MICO",
+    "num_op": "6875"
+  },
+  "87375651": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-9",
+    "op_det": "6875-9-DELANTAL MICO",
+    "num_op": "6875"
+  },
+  "87375678": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-10",
+    "op_det": "6875-10-DELANTAL MICO",
+    "num_op": "6875"
+  },
+  "87375725": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-11",
+    "op_det": "6875-11-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6875"
+  },
+  "87375753": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-12",
+    "op_det": "6875-12-PANTALÓN  CALLE  DAMA",
+    "num_op": "6875"
+  },
+  "87375874": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-13",
+    "op_det": "6875-13-PANTALON RESORTADO CABALLERO",
+    "num_op": "6875"
+  },
+  "87375906": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6875-14",
+    "op_det": "6875-14-PANTALÓN  CALLE  DAMA",
+    "num_op": "6875"
+  },
+  "87366331": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-1",
+    "op_det": "6874-1-POLO MANGA CORTA",
+    "num_op": "6874"
+  },
+  "87366360": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-2",
+    "op_det": "6874-2-POLO MANGA CORTA",
+    "num_op": "6874"
+  },
+  "87366392": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-3",
+    "op_det": "6874-3-POLO MANGA CORTA",
+    "num_op": "6874"
+  },
+  "87366426": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-4",
+    "op_det": "6874-4-POLO MANGA CORTA",
+    "num_op": "6874"
+  },
+  "87366475": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-5",
+    "op_det": "6874-5-POLO MANGA CORTA",
+    "num_op": "6874"
+  },
+  "87366562": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-6",
+    "op_det": "6874-6-DELANTAL CLASICO",
+    "num_op": "6874"
+  },
+  "87366636": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-7",
+    "op_det": "6874-7-Gorra seis cascos",
+    "num_op": "6874"
+  },
+  "87366679": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-8",
+    "op_det": "6874-8-Gorra seis cascos",
+    "num_op": "6874"
+  },
+  "87366721": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-9",
+    "op_det": "6874-9-Gorra seis cascos",
+    "num_op": "6874"
+  },
+  "87366759": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-10",
+    "op_det": "6874-10-PANTALÓN JEAN",
+    "num_op": "6874"
+  },
+  "87366854": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-11",
+    "op_det": "6874-11-PANTALÓN JEAN",
+    "num_op": "6874"
+  },
+  "87366891": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-12",
+    "op_det": "6874-12-Pantalón dotación",
+    "num_op": "6874"
+  },
+  "87366973": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-13",
+    "op_det": "6874-13-Chaqueta  Acolchada",
+    "num_op": "6874"
+  },
+  "87367004": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6874-14",
+    "op_det": "6874-14-Chaqueta Rompevientos",
+    "num_op": "6874"
+  },
+  "87315868": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6873-1",
+    "op_det": "6873-1-POLO MANGA LARGA",
+    "num_op": "6873"
+  },
+  "87315900": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6873-2",
+    "op_det": "6873-2-POLO MANGA LARGA",
+    "num_op": "6873"
+  },
+  "87315932": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6873-3",
+    "op_det": "6873-3-PANTALÓN JEAN",
+    "num_op": "6873"
+  },
+  "87315965": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6873-4",
+    "op_det": "6873-4-PANTALÓN JEAN",
+    "num_op": "6873"
+  },
+  "87315997": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6873-5",
+    "op_det": "6873-5-Canguro",
+    "num_op": "6873"
+  },
+  "87314385": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-1",
+    "op_det": "6872-1-POLO MANGA LARGA",
+    "num_op": "6872"
+  },
+  "87314468": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-2",
+    "op_det": "6872-2-POLO MANGA LARGA",
+    "num_op": "6872"
+  },
+  "87314522": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-3",
+    "op_det": "6872-3-POLO MANGA LARGA",
+    "num_op": "6872"
+  },
+  "87314553": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-4",
+    "op_det": "6872-4-POLO MANGA CORTA",
+    "num_op": "6872"
+  },
+  "87314632": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-5",
+    "op_det": "6872-5-POLO MANGA CORTA",
+    "num_op": "6872"
+  },
+  "87314660": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-6",
+    "op_det": "6872-6-POLO MANGA CORTA",
+    "num_op": "6872"
+  },
+  "87314689": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-7",
+    "op_det": "6872-7-PANTALÓN JEAN",
+    "num_op": "6872"
+  },
+  "87314724": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-8",
+    "op_det": "6872-8-PANTALÓN JEAN",
+    "num_op": "6872"
+  },
+  "87314760": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-9",
+    "op_det": "6872-9-PANTALÓN JEAN",
+    "num_op": "6872"
+  },
+  "87314794": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-10",
+    "op_det": "6872-10-PANTALÓN JEAN",
+    "num_op": "6872"
+  },
+  "87314820": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-11",
+    "op_det": "6872-11-Delantal clasico",
+    "num_op": "6872"
+  },
+  "87314854": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6872-12",
+    "op_det": "6872-12-Delantal clasico",
+    "num_op": "6872"
+  },
+  "87309656": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6871-1",
+    "op_det": "6871-1-Gorra Curva",
+    "num_op": "6871"
+  },
+  "87295656": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6870-1",
+    "op_det": "6870-1-PANTALON RESORTADO CABALLERO",
+    "num_op": "6870"
+  },
+  "87261713": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6868-1",
+    "op_det": "6868-1-Pantalón dotación",
+    "num_op": "6868"
+  },
+  "87248096": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6867-1",
+    "op_det": "6867-1-Overol Tipo Piloto",
+    "num_op": "6867"
+  },
+  "87248128": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6867-2",
+    "op_det": "6867-2-CHALECO REFLECTIVO",
+    "num_op": "6867"
+  },
+  "87248164": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6867-3",
+    "op_det": "6867-3-CHALECO REFLECTIVO",
+    "num_op": "6867"
+  },
+  "87240048": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-1",
+    "op_det": "6866-1-CHALECO REFLECTIVO",
+    "num_op": "6866"
+  },
+  "87240094": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-2",
+    "op_det": "6866-2-Pantalón dotación",
+    "num_op": "6866"
+  },
+  "87240202": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-3",
+    "op_det": "6866-3-CONJUNTO ANTIFLUIDO",
+    "num_op": "6866"
+  },
+  "87240245": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-4",
+    "op_det": "6866-4-PANTALÓN SASTRE",
+    "num_op": "6866"
+  },
+  "87240290": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-5",
+    "op_det": "6866-5-CAMISA MANGA CORTA",
+    "num_op": "6866"
+  },
+  "87240324": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-6",
+    "op_det": "6866-6-CAMISA MANGA CORTA",
+    "num_op": "6866"
+  },
+  "87240362": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-7",
+    "op_det": "6866-7-Chaleco Liso",
+    "num_op": "6866"
+  },
+  "87240458": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6866-8",
+    "op_det": "6866-8-Pantalón dotación",
+    "num_op": "6866"
+  },
+  "87125914": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-1",
+    "op_det": "6863-1-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87125960": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-2",
+    "op_det": "6863-2-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87126052": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-3",
+    "op_det": "6863-3-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87126107": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-4",
+    "op_det": "6863-4-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87126164": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-5",
+    "op_det": "6863-5-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87126208": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-6",
+    "op_det": "6863-6-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126247": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-7",
+    "op_det": "6863-7-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126285": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-8",
+    "op_det": "6863-8-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126330": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-9",
+    "op_det": "6863-9-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126368": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-10",
+    "op_det": "6863-10-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126399": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-11",
+    "op_det": "6863-11-Abrigo Sastre",
+    "num_op": "6863"
+  },
+  "87126432": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6863-12",
+    "op_det": "6863-12-PANTALÓN SASTRE",
+    "num_op": "6863"
+  },
+  "87117120": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6861-1",
+    "op_det": "6861-1-Chaqueta Cuarto Frio",
+    "num_op": "6861"
+  },
+  "87072862": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6858-1",
+    "op_det": "6858-1-Camiseta polo",
+    "num_op": "6858"
+  },
+  "87072893": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6858-2",
+    "op_det": "6858-2-pantalon sudadera",
+    "num_op": "6858"
+  },
+  "87064686": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6857-1",
+    "op_det": "6857-1-Camibuzo",
+    "num_op": "6857"
+  },
+  "87053434": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6855-1",
+    "op_det": "6855-1-POLO MANGA CORTA",
+    "num_op": "6855"
+  },
+  "87053471": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6855-2",
+    "op_det": "6855-2-CHALECO PERIODISTA",
+    "num_op": "6855"
+  },
+  "87053519": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6855-3",
+    "op_det": "6855-3-PANTALÓN JEAN",
+    "num_op": "6855"
+  },
+  "87053550": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6855-4",
+    "op_det": "6855-4-Gorra seis cascos",
+    "num_op": "6855"
+  },
+  "86919951": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6851-1",
+    "op_det": "6851-1-Porta Carné",
+    "num_op": "6851"
+  },
+  "86919996": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6851-2",
+    "op_det": "6851-2-OTRO",
+    "num_op": "6851"
+  },
+  "86792272": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6847-1",
+    "op_det": "6847-1-PANTALÓN  CALLE  DAMA",
+    "num_op": "6847"
+  },
+  "86792304": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6847-2",
+    "op_det": "6847-2-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6847"
+  },
+  "86792341": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6847-3",
+    "op_det": "6847-3-PANTALÓN  CALLE  DAMA",
+    "num_op": "6847"
+  },
+  "86789462": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6846-1",
+    "op_det": "6846-1-CORBATA ADMINISTRATIVA",
+    "num_op": "6846"
+  },
+  "86789545": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6846-2",
+    "op_det": "6846-2-CORBATA ADMINISTRATIVA",
+    "num_op": "6846"
+  },
+  "86725654": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6845-1",
+    "op_det": "6845-1-POLO MANGA CORTA",
+    "num_op": "6845"
+  },
+  "86666958": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6843-1",
+    "op_det": "6843-1-CAMISA MANGA LARGA",
+    "num_op": "6843"
+  },
+  "86666986": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6843-2",
+    "op_det": "6843-2-CAMISA MANGA LARGA",
+    "num_op": "6843"
+  },
+  "86646609": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6842-1",
+    "op_det": "6842-1-DELANTAL CLASICO",
+    "num_op": "6842"
+  },
+  "86641919": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6841-1",
+    "op_det": "6841-1-CAMISA MANGA LARGA",
+    "num_op": "6841"
+  },
+  "86524259": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-1",
+    "op_det": "6840-1-CAMISA MANGA LARGA",
+    "num_op": "6840"
+  },
+  "86524295": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-2",
+    "op_det": "6840-2-CHALECO ENGUATADO",
+    "num_op": "6840"
+  },
+  "86524333": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-3",
+    "op_det": "6840-3-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524369": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-4",
+    "op_det": "6840-4-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524404": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-5",
+    "op_det": "6840-5-CAMISA MANGA LARGA",
+    "num_op": "6840"
+  },
+  "86524436": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-6",
+    "op_det": "6840-6-CHALECO ENGUATADO",
+    "num_op": "6840"
+  },
+  "86524467": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-7",
+    "op_det": "6840-7-CAMISA MANGA LARGA",
+    "num_op": "6840"
+  },
+  "86524495": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-8",
+    "op_det": "6840-8-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524530": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-9",
+    "op_det": "6840-9-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524565": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-10",
+    "op_det": "6840-10-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524595": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-11",
+    "op_det": "6840-11-Pantalón dotación",
+    "num_op": "6840"
+  },
+  "86524625": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-12",
+    "op_det": "6840-12-CHALECO ENGUATADO",
+    "num_op": "6840"
+  },
+  "86524658": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6840-13",
+    "op_det": "6840-13-CHALECO ENGUATADO",
+    "num_op": "6840"
+  },
+  "86519492": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6839-1",
+    "op_det": "6839-1-Conjunto antifluido",
+    "num_op": "6839"
+  },
+  "86519518": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6839-2",
+    "op_det": "6839-2-Conjunto antifluido",
+    "num_op": "6839"
+  },
+  "86454708": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-1",
+    "op_det": "6838-1-PANTALÓN CARGO",
+    "num_op": "6838"
+  },
+  "86454758": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-2",
+    "op_det": "6838-2-CAMISA MANGA LARGA",
+    "num_op": "6838"
+  },
+  "86454805": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-3",
+    "op_det": "6838-3-POLO MANGA CORTA",
+    "num_op": "6838"
+  },
+  "86454851": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-4",
+    "op_det": "6838-4-CAMISA MANGA LARGA",
+    "num_op": "6838"
+  },
+  "86454899": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-5",
+    "op_det": "6838-5-Gorra Curva",
+    "num_op": "6838"
+  },
+  "86454946": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-6",
+    "op_det": "6838-6-Gorra Curva",
+    "num_op": "6838"
+  },
+  "86454990": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-7",
+    "op_det": "6838-7-BLAZER SASTRE",
+    "num_op": "6838"
+  },
+  "86455039": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-8",
+    "op_det": "6838-8-PANTALÓN SASTRE",
+    "num_op": "6838"
+  },
+  "86455085": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-9",
+    "op_det": "6838-9-BLAZER SASTRE",
+    "num_op": "6838"
+  },
+  "86455132": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-10",
+    "op_det": "6838-10-PANTALÓN SASTRE",
+    "num_op": "6838"
+  },
+  "86455178": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-11",
+    "op_det": "6838-11-CORBATA ADMINISTRATIVA",
+    "num_op": "6838"
+  },
+  "86455221": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-12",
+    "op_det": "6838-12-CAMISA MANGA LARGA",
+    "num_op": "6838"
+  },
+  "86455273": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-13",
+    "op_det": "6838-13-CAMISA MANGA LARGA",
+    "num_op": "6838"
+  },
+  "86455321": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-14",
+    "op_det": "6838-14-POLO MANGA CORTA",
+    "num_op": "6838"
+  },
+  "86455368": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-15",
+    "op_det": "6838-15-POLO MANGA CORTA",
+    "num_op": "6838"
+  },
+  "86455413": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-16",
+    "op_det": "6838-16-CHAQUETA SPORT",
+    "num_op": "6838"
+  },
+  "86455457": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-17",
+    "op_det": "6838-17-CHAQUETA SPORT",
+    "num_op": "6838"
+  },
+  "86455499": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-18",
+    "op_det": "6838-18-PANTALÓN JEAN",
+    "num_op": "6838"
+  },
+  "86455552": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-19",
+    "op_det": "6838-19-PANTALÓN JEAN",
+    "num_op": "6838"
+  },
+  "86455600": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-20",
+    "op_det": "6838-20-PANTALÓN SASTRE",
+    "num_op": "6838"
+  },
+  "86455646": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-21",
+    "op_det": "6838-21-Pantalón dotación",
+    "num_op": "6838"
+  },
+  "86455690": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-22",
+    "op_det": "6838-22-PANTALÓN SASTRE",
+    "num_op": "6838"
+  },
+  "86455733": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6838-23",
+    "op_det": "6838-23-CAMISA MANGA LARGA",
+    "num_op": "6838"
+  },
+  "86446641": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-1",
+    "op_det": "6837-1-Gorra Curva",
+    "num_op": "6837"
+  },
+  "86446665": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-2",
+    "op_det": "6837-2-BATA TIPO LABORATORIO",
+    "num_op": "6837"
+  },
+  "86446691": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-3",
+    "op_det": "6837-3-BATA TIPO LABORATORIO",
+    "num_op": "6837"
+  },
+  "86446718": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-4",
+    "op_det": "6837-4-bata antifluido",
+    "num_op": "6837"
+  },
+  "86446744": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-5",
+    "op_det": "6837-5-Buzo / Cerrado",
+    "num_op": "6837"
+  },
+  "86446773": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-6",
+    "op_det": "6837-6-Camiseta Dril",
+    "num_op": "6837"
+  },
+  "86446801": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-7",
+    "op_det": "6837-7-Camiseta Dril",
+    "num_op": "6837"
+  },
+  "86446927": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-8",
+    "op_det": "6837-8-Camiseta Dril",
+    "num_op": "6837"
+  },
+  "86446957": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-9",
+    "op_det": "6837-9-POLO MANGA CORTA",
+    "num_op": "6837"
+  },
+  "86447030": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-10",
+    "op_det": "6837-10-POLO MANGA CORTA",
+    "num_op": "6837"
+  },
+  "86447058": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-11",
+    "op_det": "6837-11-POLO MANGA CORTA",
+    "num_op": "6837"
+  },
+  "86447082": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-12",
+    "op_det": "6837-12-POLO MANGA CORTA",
+    "num_op": "6837"
+  },
+  "86447108": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-13",
+    "op_det": "6837-13-Chaqueta Cuarto Frío",
+    "num_op": "6837"
+  },
+  "86447135": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-14",
+    "op_det": "6837-14-Chaqueta Cuarto Frío",
+    "num_op": "6837"
+  },
+  "86447164": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-15",
+    "op_det": "6837-15-Chaqueta Cuarto Frío",
+    "num_op": "6837"
+  },
+  "86447189": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-16",
+    "op_det": "6837-16-Chaqueta Sport",
+    "num_op": "6837"
+  },
+  "86447217": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-17",
+    "op_det": "6837-17-Cofia",
+    "num_op": "6837"
+  },
+  "86447247": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-18",
+    "op_det": "6837-18-Cofia",
+    "num_op": "6837"
+  },
+  "86447271": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-19",
+    "op_det": "6837-19-Cofia",
+    "num_op": "6837"
+  },
+  "86447295": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-20",
+    "op_det": "6837-20-Cofia",
+    "num_op": "6837"
+  },
+  "86447322": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-21",
+    "op_det": "6837-21-Cofia",
+    "num_op": "6837"
+  },
+  "86447346": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-22",
+    "op_det": "6837-22-Medias Cuarto Frio",
+    "num_op": "6837"
+  },
+  "86447370": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-23",
+    "op_det": "6837-23-Guante  Cuarto Frio",
+    "num_op": "6837"
+  },
+  "86447396": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-24",
+    "op_det": "6837-24-Pasamontañas",
+    "num_op": "6837"
+  },
+  "86447420": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-25",
+    "op_det": "6837-25-DELANTAL CLASICO",
+    "num_op": "6837"
+  },
+  "86447444": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-26",
+    "op_det": "6837-26-Pantalón  Cuarto Frio",
+    "num_op": "6837"
+  },
+  "86447470": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-27",
+    "op_det": "6837-27-Pantalón dotación",
+    "num_op": "6837"
+  },
+  "86447500": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-28",
+    "op_det": "6837-28-Pantalón dotación",
+    "num_op": "6837"
+  },
+  "86447584": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-29",
+    "op_det": "6837-29-pantalón  overol",
+    "num_op": "6837"
+  },
+  "86447610": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-30",
+    "op_det": "6837-30-Pantalón Flecce",
+    "num_op": "6837"
+  },
+  "86447638": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-31",
+    "op_det": "6837-31-PANTALÓN JEAN",
+    "num_op": "6837"
+  },
+  "86447666": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-32",
+    "op_det": "6837-32-PANTALÓN JEAN",
+    "num_op": "6837"
+  },
+  "86447690": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-33",
+    "op_det": "6837-33-PANTALÓN JEAN",
+    "num_op": "6837"
+  },
+  "86447716": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-34",
+    "op_det": "6837-34-Pantalón  Cuarto Frio",
+    "num_op": "6837"
+  },
+  "86447740": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-35",
+    "op_det": "6837-35-Pantalón dotación",
+    "num_op": "6837"
+  },
+  "86447767": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6837-36",
+    "op_det": "6837-36-T-SHIRT MANGA CORTA",
+    "num_op": "6837"
+  },
+  "86420419": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6836-1",
+    "op_det": "6836-1-Bota Puntera",
+    "num_op": "6836"
+  },
+  "86420177": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6835-1",
+    "op_det": "6835-1-ROMPEVIENTOS REFLECTIVA",
+    "num_op": "6835"
+  },
+  "86341650": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-1",
+    "op_det": "6832-1-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341674": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-2",
+    "op_det": "6832-2-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341698": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-3",
+    "op_det": "6832-3-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341722": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-4",
+    "op_det": "6832-4-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341746": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-5",
+    "op_det": "6832-5-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341771": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-6",
+    "op_det": "6832-6-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341795": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-7",
+    "op_det": "6832-7-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341821": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-8",
+    "op_det": "6832-8-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341845": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-9",
+    "op_det": "6832-9-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341869": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-10",
+    "op_det": "6832-10-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341893": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-11",
+    "op_det": "6832-11-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341919": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-12",
+    "op_det": "6832-12-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341943": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-13",
+    "op_det": "6832-13-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341967": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-14",
+    "op_det": "6832-14-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86341991": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-15",
+    "op_det": "6832-15-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342016": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-16",
+    "op_det": "6832-16-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342040": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-17",
+    "op_det": "6832-17-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342110": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-18",
+    "op_det": "6832-18-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342134": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-19",
+    "op_det": "6832-19-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342158": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-20",
+    "op_det": "6832-20-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342183": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-21",
+    "op_det": "6832-21-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342207": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-22",
+    "op_det": "6832-22-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86342232": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6832-23",
+    "op_det": "6832-23-CHAQUETA SPORT",
+    "num_op": "6832"
+  },
+  "86278046": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6827-1",
+    "op_det": "6827-1-CAMISA MANGA LARGA",
+    "num_op": "6827"
+  },
+  "86278073": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6827-2",
+    "op_det": "6827-2-CAMISA MANGA LARGA",
+    "num_op": "6827"
+  },
+  "86277788": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6826-1",
+    "op_det": "6826-1-Camibuzo",
+    "num_op": "6826"
+  },
+  "86277817": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6826-2",
+    "op_det": "6826-2-Camibuzo",
+    "num_op": "6826"
+  },
+  "86277845": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6826-3",
+    "op_det": "6826-3-Pantalón dotación",
+    "num_op": "6826"
+  },
+  "86277873": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6826-4",
+    "op_det": "6826-4-Pantalón dotación",
+    "num_op": "6826"
+  },
+  "86216875": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-1",
+    "op_det": "6825-1-BLAZER SASTRE",
+    "num_op": "6825"
+  },
+  "86216901": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-2",
+    "op_det": "6825-2-CAMISA MANGA CORTA",
+    "num_op": "6825"
+  },
+  "86216934": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-3",
+    "op_det": "6825-3-CAMISA MANGA CORTA",
+    "num_op": "6825"
+  },
+  "86217014": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-4",
+    "op_det": "6825-4-OTRO",
+    "num_op": "6825"
+  },
+  "86217038": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-5",
+    "op_det": "6825-5-Camibuso Polo Manga Larga",
+    "num_op": "6825"
+  },
+  "86217068": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-6",
+    "op_det": "6825-6-Camibuso Polo Manga Larga",
+    "num_op": "6825"
+  },
+  "86217100": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-7",
+    "op_det": "6825-7-CAMISA MANGA CORTA",
+    "num_op": "6825"
+  },
+  "86217131": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-8",
+    "op_det": "6825-8-CAMISA MANGA CORTA",
+    "num_op": "6825"
+  },
+  "86217164": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-9",
+    "op_det": "6825-9-Camibuso Polo Manga Larga",
+    "num_op": "6825"
+  },
+  "86217194": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-10",
+    "op_det": "6825-10-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217270": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-11",
+    "op_det": "6825-11-Chaqueta  Acolchada",
+    "num_op": "6825"
+  },
+  "86217303": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-12",
+    "op_det": "6825-12-Falda",
+    "num_op": "6825"
+  },
+  "86217333": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-13",
+    "op_det": "6825-13-Gorra Curva",
+    "num_op": "6825"
+  },
+  "86217357": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-14",
+    "op_det": "6825-14-Gorra Curva",
+    "num_op": "6825"
+  },
+  "86217381": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-15",
+    "op_det": "6825-15-Reata",
+    "num_op": "6825"
+  },
+  "86217405": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-16",
+    "op_det": "6825-16-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6825"
+  },
+  "86217483": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-17",
+    "op_det": "6825-17-PANTALÓN SASTRE",
+    "num_op": "6825"
+  },
+  "86217562": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-18",
+    "op_det": "6825-18-pantalón  overol",
+    "num_op": "6825"
+  },
+  "86217595": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-19",
+    "op_det": "6825-19-Canguro",
+    "num_op": "6825"
+  },
+  "86217665": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-20",
+    "op_det": "6825-20-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217697": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-21",
+    "op_det": "6825-21-Chaqueta  Acolchada",
+    "num_op": "6825"
+  },
+  "86217729": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-22",
+    "op_det": "6825-22-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217758": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-23",
+    "op_det": "6825-23-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217787": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-24",
+    "op_det": "6825-24-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217815": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-25",
+    "op_det": "6825-25-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217844": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-26",
+    "op_det": "6825-26-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217874": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-27",
+    "op_det": "6825-27-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217955": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-28",
+    "op_det": "6825-28-Chaleco Liso",
+    "num_op": "6825"
+  },
+  "86217986": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-29",
+    "op_det": "6825-29-Saco Tejido",
+    "num_op": "6825"
+  },
+  "86218071": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6825-30",
+    "op_det": "6825-30-CANGURO",
+    "num_op": "6825"
+  },
+  "86171858": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6824-1",
+    "op_det": "6824-1-OVEROL DOS PIEZAS",
+    "num_op": "6824"
+  },
+  "86171884": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6824-2",
+    "op_det": "6824-2-PANTALÓN JEAN",
+    "num_op": "6824"
+  },
+  "86171922": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6824-3",
+    "op_det": "6824-3-POLO MANGA LARGA",
+    "num_op": "6824"
+  },
+  "86171949": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6824-4",
+    "op_det": "6824-4-Camibuzo",
+    "num_op": "6824"
+  },
+  "86168292": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-1",
+    "op_det": "6823-1-CAMISA MANGA LARGA",
+    "num_op": "6823"
+  },
+  "86168389": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-2",
+    "op_det": "6823-2-Blusa Dama Manga 3/4",
+    "num_op": "6823"
+  },
+  "86168553": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-3",
+    "op_det": "6823-3-CHAQUETA MICHELIN",
+    "num_op": "6823"
+  },
+  "86168600": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-4",
+    "op_det": "6823-4-CHAQUETA MICHELIN",
+    "num_op": "6823"
+  },
+  "86168636": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-5",
+    "op_det": "6823-5-PANTALÓN  CALLE  DAMA",
+    "num_op": "6823"
+  },
+  "86168678": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-6",
+    "op_det": "6823-6-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6823"
+  },
+  "86168766": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-7",
+    "op_det": "6823-7-POLO MANGA CORTA",
+    "num_op": "6823"
+  },
+  "86168843": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6823-8",
+    "op_det": "6823-8-POLO MANGA CORTA",
+    "num_op": "6823"
+  },
+  "86122850": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6821-1",
+    "op_det": "6821-1-crocs",
+    "num_op": "6821"
+  },
+  "86120876": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-1",
+    "op_det": "6820-1-CAMISA MANGA LARGA",
+    "num_op": "6820"
+  },
+  "86120922": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-2",
+    "op_det": "6820-2-CAMISA MANGA LARGA",
+    "num_op": "6820"
+  },
+  "86120954": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-3",
+    "op_det": "6820-3-Blusa Dama Manga 3/4",
+    "num_op": "6820"
+  },
+  "86121001": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-4",
+    "op_det": "6820-4-Blusa Dama Manga 3/4",
+    "num_op": "6820"
+  },
+  "86121044": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-5",
+    "op_det": "6820-5-Pantalón dotación",
+    "num_op": "6820"
+  },
+  "86121094": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-6",
+    "op_det": "6820-6-Pantalón dotación",
+    "num_op": "6820"
+  },
+  "86121141": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-7",
+    "op_det": "6820-7-Pantalón dotación",
+    "num_op": "6820"
+  },
+  "86121184": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-8",
+    "op_det": "6820-8-Pantalón dotación",
+    "num_op": "6820"
+  },
+  "86121219": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-9",
+    "op_det": "6820-9-Falda",
+    "num_op": "6820"
+  },
+  "86121246": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-10",
+    "op_det": "6820-10-Falda",
+    "num_op": "6820"
+  },
+  "86121277": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-11",
+    "op_det": "6820-11-Conjunto antifluido",
+    "num_op": "6820"
+  },
+  "86121314": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-12",
+    "op_det": "6820-12-Camiseta polo",
+    "num_op": "6820"
+  },
+  "86121360": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-13",
+    "op_det": "6820-13-Camiseta polo",
+    "num_op": "6820"
+  },
+  "86121402": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-14",
+    "op_det": "6820-14-Camiseta polo",
+    "num_op": "6820"
+  },
+  "86121436": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-15",
+    "op_det": "6820-15-Camiseta polo",
+    "num_op": "6820"
+  },
+  "86121472": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-16",
+    "op_det": "6820-16-CHAQUETA MICHELIN",
+    "num_op": "6820"
+  },
+  "86121527": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-17",
+    "op_det": "6820-17-CHAQUETA MICHELIN",
+    "num_op": "6820"
+  },
+  "86121575": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6820-18",
+    "op_det": "6820-18-Cofia",
+    "num_op": "6820"
+  },
+  "86119900": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-1",
+    "op_det": "6819-1-CAMISA MANGA CORTA",
+    "num_op": "6819"
+  },
+  "86119938": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-2",
+    "op_det": "6819-2-CAMISA MANGA LARGA",
+    "num_op": "6819"
+  },
+  "86119976": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-3",
+    "op_det": "6819-3-camisa",
+    "num_op": "6819"
+  },
+  "86120012": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-4",
+    "op_det": "6819-4-camisa",
+    "num_op": "6819"
+  },
+  "86120040": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-5",
+    "op_det": "6819-5-Blusa  Materna",
+    "num_op": "6819"
+  },
+  "86120066": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6819-6",
+    "op_det": "6819-6-Blusa  Materna",
+    "num_op": "6819"
+  },
+  "86117160": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6818-1",
+    "op_det": "6818-1-Cofia",
+    "num_op": "6818"
+  },
+  "86115781": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6817-1",
+    "op_det": "6817-1-CHALECO ENGUATADO",
+    "num_op": "6817"
+  },
+  "86113999": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-25",
+    "op_det": "6816-25-",
+    "num_op": "6816"
+  },
+  "86114757": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-43",
+    "op_det": "6816-43-",
+    "num_op": "6816"
+  },
+  "86114945": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-48",
+    "op_det": "6816-48-",
+    "num_op": "6816"
+  },
+  "86115482": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-60",
+    "op_det": "6816-60-",
+    "num_op": "6816"
+  },
+  "86112821": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-1",
+    "op_det": "6816-1-Jean hombre",
+    "num_op": "6816"
+  },
+  "86112871": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-2",
+    "op_det": "6816-2-camisa  overol",
+    "num_op": "6816"
+  },
+  "86112921": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-3",
+    "op_det": "6816-3-pantalon sudadera",
+    "num_op": "6816"
+  },
+  "86113006": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-4",
+    "op_det": "6816-4-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113088": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-5",
+    "op_det": "6816-5-pantalon sudadera",
+    "num_op": "6816"
+  },
+  "86113130": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-6",
+    "op_det": "6816-6-Gorra seis cascos",
+    "num_op": "6816"
+  },
+  "86113171": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-7",
+    "op_det": "6816-7-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113209": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-8",
+    "op_det": "6816-8-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113263": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-9",
+    "op_det": "6816-9-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113332": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-10",
+    "op_det": "6816-10-Jean mujer",
+    "num_op": "6816"
+  },
+  "86113418": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-11",
+    "op_det": "6816-11-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113456": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-12",
+    "op_det": "6816-12-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113494": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-13",
+    "op_det": "6816-13-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113524": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-14",
+    "op_det": "6816-14-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113557": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-15",
+    "op_det": "6816-15-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86113590": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-16",
+    "op_det": "6816-16-Pantalón dotación",
+    "num_op": "6816"
+  },
+  "86113673": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-17",
+    "op_det": "6816-17-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113702": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-18",
+    "op_det": "6816-18-CAMISA MANGA LARGA",
+    "num_op": "6816"
+  },
+  "86113738": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-19",
+    "op_det": "6816-19-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113774": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-20",
+    "op_det": "6816-20-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113803": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-21",
+    "op_det": "6816-21-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113894": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-22",
+    "op_det": "6816-22-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86113931": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-23",
+    "op_det": "6816-23-camisa  overol",
+    "num_op": "6816"
+  },
+  "86113961": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-24",
+    "op_det": "6816-24-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114028": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-25",
+    "op_det": "6816-25-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114062": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-26",
+    "op_det": "6816-26-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114106": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-27",
+    "op_det": "6816-27-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114147": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-28",
+    "op_det": "6816-28-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114179": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-29",
+    "op_det": "6816-29-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114207": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-30",
+    "op_det": "6816-30-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86114239": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-31",
+    "op_det": "6816-31-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114265": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-32",
+    "op_det": "6816-32-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114294": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-33",
+    "op_det": "6816-33-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86114323": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-34",
+    "op_det": "6816-34-Jean hombre",
+    "num_op": "6816"
+  },
+  "86114356": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-35",
+    "op_det": "6816-35-Jean hombre",
+    "num_op": "6816"
+  },
+  "86114393": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-36",
+    "op_det": "6816-36-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114426": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-37",
+    "op_det": "6816-37-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114457": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-38",
+    "op_det": "6816-38-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114481": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-39",
+    "op_det": "6816-39-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114518": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-40",
+    "op_det": "6816-40-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114548": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-41",
+    "op_det": "6816-41-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86114631": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-42",
+    "op_det": "6816-42-pantalon sudadera",
+    "num_op": "6816"
+  },
+  "86114786": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-43",
+    "op_det": "6816-43-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114817": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-44",
+    "op_det": "6816-44-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86114842": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-45",
+    "op_det": "6816-45-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86114884": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-46",
+    "op_det": "6816-46-Camibuso Polo Manga Larga",
+    "num_op": "6816"
+  },
+  "86114909": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-47",
+    "op_det": "6816-47-camisa  overol",
+    "num_op": "6816"
+  },
+  "86114974": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-48",
+    "op_det": "6816-48-camisa  overol",
+    "num_op": "6816"
+  },
+  "86115004": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-49",
+    "op_det": "6816-49-BATA TIPO LABORATORIO",
+    "num_op": "6816"
+  },
+  "86115037": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-50",
+    "op_det": "6816-50-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115069": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-51",
+    "op_det": "6816-51-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115095": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-52",
+    "op_det": "6816-52-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115124": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-53",
+    "op_det": "6816-53-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115200": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-54",
+    "op_det": "6816-54-sombrero tipo pava",
+    "num_op": "6816"
+  },
+  "86115227": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-55",
+    "op_det": "6816-55-POLO MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115263": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-56",
+    "op_det": "6816-56-Cofia",
+    "num_op": "6816"
+  },
+  "86115298": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-57",
+    "op_det": "6816-57-TAPABOCAS",
+    "num_op": "6816"
+  },
+  "86115404": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-58",
+    "op_det": "6816-58-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115450": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-59",
+    "op_det": "6816-59-BATA TIPO LABORATORIO",
+    "num_op": "6816"
+  },
+  "86115517": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-60",
+    "op_det": "6816-60-CAMISA MANGA CORTA",
+    "num_op": "6816"
+  },
+  "86115557": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-61",
+    "op_det": "6816-61-Peto",
+    "num_op": "6816"
+  },
+  "86115584": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6816-62",
+    "op_det": "6816-62-camisa  overol",
+    "num_op": "6816"
+  },
+  "86107668": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6815-1",
+    "op_det": "6815-1-T-SHIRT MANGA CORTA",
+    "num_op": "6815"
+  },
+  "86107761": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6815-2",
+    "op_det": "6815-2-T-SHIRT MANGA CORTA",
+    "num_op": "6815"
+  },
+  "86099548": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-1",
+    "op_det": "6814-1-Gorra seis cascos",
+    "num_op": "6814"
+  },
+  "86099581": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-2",
+    "op_det": "6814-2-Gorra seis cascos",
+    "num_op": "6814"
+  },
+  "86099655": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-3",
+    "op_det": "6814-3-Gorra seis cascos",
+    "num_op": "6814"
+  },
+  "86099794": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-4",
+    "op_det": "6814-4-Gorra seis cascos",
+    "num_op": "6814"
+  },
+  "86099823": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-5",
+    "op_det": "6814-5-T-SHIRT MANGA CORTA",
+    "num_op": "6814"
+  },
+  "86099961": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-6",
+    "op_det": "6814-6-T-SHIRT MANGA CORTA",
+    "num_op": "6814"
+  },
+  "86100006": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-7",
+    "op_det": "6814-7-T-SHIRT MANGA CORTA",
+    "num_op": "6814"
+  },
+  "86100043": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-8",
+    "op_det": "6814-8-T-SHIRT MANGA CORTA",
+    "num_op": "6814"
+  },
+  "86100073": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-9",
+    "op_det": "6814-9-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6814"
+  },
+  "86100120": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-10",
+    "op_det": "6814-10-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6814"
+  },
+  "86100154": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-11",
+    "op_det": "6814-11-PANTALÓN  CALLE  DAMA",
+    "num_op": "6814"
+  },
+  "86100193": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-12",
+    "op_det": "6814-12-PANTALÓN  CALLE  DAMA",
+    "num_op": "6814"
+  },
+  "86100240": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-13",
+    "op_det": "6814-13-Peto",
+    "num_op": "6814"
+  },
+  "86100351": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-14",
+    "op_det": "6814-14-OVEROL ENTERIZO MATERNO",
+    "num_op": "6814"
+  },
+  "86100409": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-15",
+    "op_det": "6814-15-REATA",
+    "num_op": "6814"
+  },
+  "86100521": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6814-16",
+    "op_det": "6814-16-T-SHIRT MANGA CORTA",
+    "num_op": "6814"
+  },
+  "85928784": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6810-1",
+    "op_det": "6810-1-Conjunto antifluido",
+    "num_op": "6810"
+  },
+  "85928817": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6810-2",
+    "op_det": "6810-2-CAMISA MANGA LARGA",
+    "num_op": "6810"
+  },
+  "85928843": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6810-3",
+    "op_det": "6810-3-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6810"
+  },
+  "85928875": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6810-4",
+    "op_det": "6810-4-PANTALÓN  CALLE  DAMA",
+    "num_op": "6810"
+  },
+  "85926753": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6809-1",
+    "op_det": "6809-1-CAMISA MANGA LARGA",
+    "num_op": "6809"
+  },
+  "85926790": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6809-2",
+    "op_det": "6809-2-PANTALÓN ADMINISTRATIVO HOMBRE",
+    "num_op": "6809"
+  },
+  "85919968": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6808-1",
+    "op_det": "6808-1-HODDIE CERRADO",
+    "num_op": "6808"
+  },
+  "85856257": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6806-1",
+    "op_det": "6806-1-CAMISA MANGA LARGA",
+    "num_op": "6806"
+  },
+  "85856285": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6806-2",
+    "op_det": "6806-2-CAMISA MANGA LARGA",
+    "num_op": "6806"
+  },
+  "85856319": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6806-3",
+    "op_det": "6806-3-CAMISA MANGA LARGA",
+    "num_op": "6806"
+  },
+  "85840564": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-1",
+    "op_det": "6805-1-Camibuso Polo Manga Larga",
+    "num_op": "6805"
+  },
+  "85840599": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-2",
+    "op_det": "6805-2-PANTALÓN CARGO",
+    "num_op": "6805"
+  },
+  "85840630": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-3",
+    "op_det": "6805-3-Gorra seis cascos",
+    "num_op": "6805"
+  },
+  "85840660": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-4",
+    "op_det": "6805-4-Camibuso Polo Manga Larga",
+    "num_op": "6805"
+  },
+  "85840685": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-5",
+    "op_det": "6805-5-Camibuso Polo Manga Larga",
+    "num_op": "6805"
+  },
+  "85840721": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6805-6",
+    "op_det": "6805-6-PANTALÓN CARGO",
+    "num_op": "6805"
+  },
+  "85840004": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6804-1",
+    "op_det": "6804-1-POLO MANGA LARGA",
+    "num_op": "6804"
+  },
+  "85833347": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6803-1",
+    "op_det": "6803-1-T-SHIRT MANGA LARGA",
+    "num_op": "6803"
+  },
+  "85785273": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6801-1",
+    "op_det": "6801-1-Estampado",
+    "num_op": "6801"
+  },
+  "85776865": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6800-1",
+    "op_det": "6800-1-CAMISA MANGA LARGA",
+    "num_op": "6800"
+  },
+  "85776894": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6800-2",
+    "op_det": "6800-2-Saco Tejido",
+    "num_op": "6800"
+  },
+  "85776920": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6800-3",
+    "op_det": "6800-3-CAMISA MANGA LARGA",
+    "num_op": "6800"
+  },
+  "85776945": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6800-4",
+    "op_det": "6800-4-PANTALÓN TIPO CALLE CABALLERO",
+    "num_op": "6800"
+  },
+  "85776970": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6800-5",
+    "op_det": "6800-5-Saco Tejido",
+    "num_op": "6800"
+  },
+  "85772118": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-1",
+    "op_det": "6799-1-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772151": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-2",
+    "op_det": "6799-2-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772230": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-3",
+    "op_det": "6799-3-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772278": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-4",
+    "op_det": "6799-4-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772303": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-5",
+    "op_det": "6799-5-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772329": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-6",
+    "op_det": "6799-6-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772358": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-7",
+    "op_det": "6799-7-Conjunto antifluido",
+    "num_op": "6799"
+  },
+  "85772399": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-8",
+    "op_det": "6799-8-Conjunto Operativo",
+    "num_op": "6799"
+  },
+  "85772437": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-9",
+    "op_det": "6799-9-Conjunto Operativo",
+    "num_op": "6799"
+  },
+  "85772470": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-10",
+    "op_det": "6799-10-Cofia",
+    "num_op": "6799"
+  },
+  "85772501": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6799-11",
+    "op_det": "6799-11-Peto",
+    "num_op": "6799"
+  },
+  "85762913": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6797-1",
+    "op_det": "6797-1-T-SHIRT MANGA LARGA",
+    "num_op": "6797"
+  },
+  "85762974": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6797-2",
+    "op_det": "6797-2-T-SHIRT MANGA CORTA",
+    "num_op": "6797"
+  },
+  "85763050": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6797-3",
+    "op_det": "6797-3-BATA TIPO LABORATORIO",
+    "num_op": "6797"
+  },
+  "85763105": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6797-4",
+    "op_det": "6797-4-CAMISA MANGA CORTA",
+    "num_op": "6797"
+  },
+  "85763849": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6797-5",
+    "op_det": "6797-5-PANTALON RESORTADO CABALLERO",
+    "num_op": "6797"
+  },
+  "85701204": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6796-1",
+    "op_det": "6796-1-POLO MANGA CORTA",
+    "num_op": "6796"
+  },
+  "85692870": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6795-1",
+    "op_det": "6795-1-Chaqueta Sport",
+    "num_op": "6795"
+  },
+  "85692908": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6795-2",
+    "op_det": "6795-2-Jogger",
+    "num_op": "6795"
+  },
+  "85561791": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-1",
+    "op_det": "6791-1-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85561827": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-2",
+    "op_det": "6791-2-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85561861": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-3",
+    "op_det": "6791-3-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85561896": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-4",
+    "op_det": "6791-4-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85561944": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-5",
+    "op_det": "6791-5-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85561974": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-6",
+    "op_det": "6791-6-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85562011": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-7",
+    "op_det": "6791-7-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85562098": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-8",
+    "op_det": "6791-8-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85562136": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-9",
+    "op_det": "6791-9-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85562178": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-10",
+    "op_det": "6791-10-PANTALÓN SASTRE",
+    "num_op": "6791"
+  },
+  "85562239": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-11",
+    "op_det": "6791-11-Falda",
+    "num_op": "6791"
+  },
+  "85562335": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-12",
+    "op_det": "6791-12-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562361": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-13",
+    "op_det": "6791-13-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562466": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-14",
+    "op_det": "6791-14-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562555": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-15",
+    "op_det": "6791-15-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562587": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-16",
+    "op_det": "6791-16-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562622": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-17",
+    "op_det": "6791-17-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562705": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-18",
+    "op_det": "6791-18-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85562740": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6791-19",
+    "op_det": "6791-19-Sastre Masculino",
+    "num_op": "6791"
+  },
+  "85518280": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6790-1",
+    "op_det": "6790-1-PANTALÓN SASTRE",
+    "num_op": "6790"
+  },
+  "85518307": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6790-2",
+    "op_det": "6790-2-PANTALÓN SASTRE",
+    "num_op": "6790"
+  },
+  "85518332": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6790-3",
+    "op_det": "6790-3-PANTALÓN SASTRE",
+    "num_op": "6790"
+  },
+  "85517949": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-1",
+    "op_det": "6789-1-Sastre Masculino",
+    "num_op": "6789"
+  },
+  "85517976": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-2",
+    "op_det": "6789-2-Sastre Masculino",
+    "num_op": "6789"
+  },
+  "85518004": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-3",
+    "op_det": "6789-3-PANTALÓN SASTRE",
+    "num_op": "6789"
+  },
+  "85518028": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-4",
+    "op_det": "6789-4-PANTALÓN SASTRE",
+    "num_op": "6789"
+  },
+  "85518055": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-5",
+    "op_det": "6789-5-PANTALÓN SASTRE",
+    "num_op": "6789"
+  },
+  "85518081": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6789-6",
+    "op_det": "6789-6-Falda",
+    "num_op": "6789"
+  },
+  "85503693": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-1",
+    "op_det": "6788-1-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503729": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-2",
+    "op_det": "6788-2-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503758": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-3",
+    "op_det": "6788-3-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503786": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-4",
+    "op_det": "6788-4-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503813": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-5",
+    "op_det": "6788-5-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503843": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-6",
+    "op_det": "6788-6-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503871": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-7",
+    "op_det": "6788-7-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85503911": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6788-8",
+    "op_det": "6788-8-T-SHIRT MANGA CORTA",
+    "num_op": "6788"
+  },
+  "85497682": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6787-1",
+    "op_det": "6787-1-BATA TIPO LABORATORIO",
+    "num_op": "6787"
+  },
+  "85497717": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6787-2",
+    "op_det": "6787-2-CAMISA MANGA CORTA",
+    "num_op": "6787"
+  },
+  "85497758": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6787-3",
+    "op_det": "6787-3-PANTALON RESORTADO CABALLERO",
+    "num_op": "6787"
+  },
+  "85497798": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6787-4",
+    "op_det": "6787-4-DELANTAL TIPO PETO",
+    "num_op": "6787"
+  },
+  "85496120": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6786-1",
+    "op_det": "6786-1-BATA TIPO LABORATORIO",
+    "num_op": "6786"
+  },
+  "85496164": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6786-2",
+    "op_det": "6786-2-CAMISA MANGA CORTA",
+    "num_op": "6786"
+  },
+  "85496216": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6786-3",
+    "op_det": "6786-3-PANTALON RESORTADO CABALLERO",
+    "num_op": "6786"
+  },
+  "85496275": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6786-4",
+    "op_det": "6786-4-camisa  overol",
+    "num_op": "6786"
+  },
+  "85496316": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6786-5",
+    "op_det": "6786-5-PANTALON RESORTADO CABALLERO",
+    "num_op": "6786"
+  },
+  "85493429": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6785-1",
+    "op_det": "6785-1-Buzo / Cerrado",
+    "num_op": "6785"
+  },
+  "85387017": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-1",
+    "op_det": "6779-1-Chaqueta Sport",
+    "num_op": "6779"
+  },
+  "85387048": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-2",
+    "op_det": "6779-2-Chaqueta Sport",
+    "num_op": "6779"
+  },
+  "85387083": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-3",
+    "op_det": "6779-3-POLO MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387124": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-4",
+    "op_det": "6779-4-POLO MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387168": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-5",
+    "op_det": "6779-5-POLO MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387199": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-6",
+    "op_det": "6779-6-POLO MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387255": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-7",
+    "op_det": "6779-7-BATA TIPO LABORATORIO",
+    "num_op": "6779"
+  },
+  "85387285": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-8",
+    "op_det": "6779-8-BATA TIPO LABORATORIO",
+    "num_op": "6779"
+  },
+  "85387369": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-9",
+    "op_det": "6779-9-Camibuso Polo Manga Larga",
+    "num_op": "6779"
+  },
+  "85387403": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-10",
+    "op_det": "6779-10-Camibuso Polo Manga Larga",
+    "num_op": "6779"
+  },
+  "85387444": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6779-11",
+    "op_det": "6779-11-Camibuso Polo Manga Larga",
+    "num_op": "6779"
+  },
+  "85387476": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-12",
+    "op_det": "6779-12-Camibuso Polo Manga Larga",
+    "num_op": "6779"
+  },
+  "85387504": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-13",
+    "op_det": "6779-13-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387555": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-14",
+    "op_det": "6779-14-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387628": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6779-15",
+    "op_det": "6779-15-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387683": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6779-16",
+    "op_det": "6779-16-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387709": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-17",
+    "op_det": "6779-17-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387795": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-18",
+    "op_det": "6779-18-T-SHIRT MANGA CORTA",
+    "num_op": "6779"
+  },
+  "85387825": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-19",
+    "op_det": "6779-19-JOGGER HOMBRE",
+    "num_op": "6779"
+  },
+  "85387862": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6779-20",
+    "op_det": "6779-20-JOGGER HOMBRE",
+    "num_op": "6779"
+  },
+  "85323894": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6778-1",
+    "op_det": "6778-1-Gorra Curva",
+    "num_op": "6778"
+  },
+  "85323970": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6778-2",
+    "op_det": "6778-2-Canguro",
+    "num_op": "6778"
+  },
+  "85105106": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6775-1",
+    "op_det": "6775-1-Chaqueta Sport",
+    "num_op": "6775"
+  },
+  "85105146": {
+    "fase": "1 compras",
+    "confianza": "baja",
+    "evidencia": "comp=PARCIAL",
+    "clave": "6775-2",
+    "op_det": "6775-2-Chaqueta Sport",
+    "num_op": "6775"
+  },
+  "85103897": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6774-1",
+    "op_det": "6774-1-PANTALÓN JEAN",
+    "num_op": "6774"
+  },
+  "85071295": {
+    "fase": "fase 0 — sin planear",
+    "confianza": "baja",
+    "evidencia": "sin_evidencia",
+    "clave": "6771-1",
+    "op_det": "6771-1-CAMISA MANGA LARGA",
+    "num_op": "6771"
+  },
+  "85012878": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6769-1",
+    "op_det": "6769-1-POLO MANGA CORTA",
+    "num_op": "6769"
+  },
+  "85012905": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6769-2",
+    "op_det": "6769-2-POLO MANGA CORTA",
+    "num_op": "6769"
+  },
+  "85004235": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6768-1",
+    "op_det": "6768-1-POLO MANGA CORTA",
+    "num_op": "6768"
+  },
+  "85004267": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6768-2",
+    "op_det": "6768-2-POLO MANGA CORTA",
+    "num_op": "6768"
+  },
+  "85004295": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6768-3",
+    "op_det": "6768-3-POLO MANGA LARGA",
+    "num_op": "6768"
+  },
+  "85004371": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6768-4",
+    "op_det": "6768-4-POLO MANGA LARGA",
+    "num_op": "6768"
+  },
+  "84935044": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6766-1",
+    "op_det": "6766-1-CHALECO REFLECTIVO",
+    "num_op": "6766"
+  },
+  "84875432": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6763-1",
+    "op_det": "6763-1-Escafandra",
+    "num_op": "6763"
+  },
+  "84868732": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6761-1",
+    "op_det": "6761-1-Buzo / Cerrado",
+    "num_op": "6761"
+  },
+  "84674298": {
+    "fase": "3 corte",
+    "confianza": "media",
+    "evidencia": "corte=PARCIAL",
+    "clave": "6758-1",
+    "op_det": "6758-1-BATA TIPO LABORATORIO",
+    "num_op": "6758"
+  },
+  "84667181": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6757-1",
+    "op_det": "6757-1-Bordado",
+    "num_op": "6757"
+  },
+  "84666081": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6756-1",
+    "op_det": "6756-1-POLO MANGA CORTA",
+    "num_op": "6756"
+  },
+  "84666118": {
+    "fase": "4 tiqueteo",
+    "confianza": "alta",
+    "evidencia": "corte=CORTADO fecha_ok",
+    "clave": "6756-2",
+    "op_det": "6756-2-POLO MANGA CORTA",
+    "num_op": "6756"
+  },
+  "84654449": {
+    "fase": "4 tiqueteo",
+    "confianza": "media",
+    "evidencia": "corte=CORTADO",
+    "clave": "6755-1",
+    "op_det": "6755-1-POLO MANGA CORTA",
+    "num_op": "6755"
+  },
+  "84607089": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6754-1",
+    "op_det": "6754-1-Chaqueta Acolchada",
+    "num_op": "6754"
+  },
+  "84607120": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6754-2",
+    "op_det": "6754-2-Chaqueta Acolchada",
+    "num_op": "6754"
+  },
+  "84519469": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-1",
+    "op_det": "6752-1-T-SHIRT MANGA CORTA",
+    "num_op": "6752"
+  },
+  "84519507": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-2",
+    "op_det": "6752-2-CAMISA MANGA CORTA",
+    "num_op": "6752"
+  },
+  "84519545": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-3",
+    "op_det": "6752-3-CAMISA MANGA LARGA",
+    "num_op": "6752"
+  },
+  "84519595": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-4",
+    "op_det": "6752-4-CAMISA MANGA LARGA",
+    "num_op": "6752"
+  },
+  "84519701": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-5",
+    "op_det": "6752-5-Conjunto Térmico",
+    "num_op": "6752"
+  },
+  "84519742": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-6",
+    "op_det": "6752-6-PANTALON RESORTADO CABALLERO",
+    "num_op": "6752"
+  },
+  "84519807": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-7",
+    "op_det": "6752-7-Conjunto Manga Corta",
+    "num_op": "6752"
+  },
+  "84519850": {
+    "fase": "6 empaque",
+    "confianza": "alta",
+    "evidencia": "sat=ENTREGADO",
+    "clave": "6752-8",
+    "op_det": "6752-8-CAMISA MANGA CORTA",
+    "num_op": "6752"
+  },
+  "84332807": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6750-1",
+    "op_det": "6750-1-CHAQUETA MICHELIN",
+    "num_op": "6750"
+  },
+  "84332163": {
+    "fase": "2 trazo",
+    "confianza": "baja",
+    "evidencia": "comp=DISPONIBLE",
+    "clave": "6749-1",
+    "op_det": "6749-1-Pantalón dotación",
+    "num_op": "6749"
+  },
+  "84332195": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6749-2",
+    "op_det": "6749-2-Pantalón dotación",
+    "num_op": "6749"
+  },
+  "84332235": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6749-3",
+    "op_det": "6749-3-Pantalón dotación",
+    "num_op": "6749"
+  },
+  "84332283": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6749-4",
+    "op_det": "6749-4-Pantalón dotación",
+    "num_op": "6749"
+  },
+  "84332330": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6749-5",
+    "op_det": "6749-5-CAMISA MANGA LARGA",
+    "num_op": "6749"
+  },
+  "84332356": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6749-6",
+    "op_det": "6749-6-CAMISA MANGA LARGA",
+    "num_op": "6749"
+  },
+  "84332384": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6749-7",
+    "op_det": "6749-7-POLO MANGA CORTA",
+    "num_op": "6749"
+  },
+  "84332410": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6749-8",
+    "op_det": "6749-8-POLO MANGA CORTA",
+    "num_op": "6749"
+  },
+  "84332436": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6749-9",
+    "op_det": "6749-9-POLO MANGA CORTA",
+    "num_op": "6749"
+  },
+  "84332463": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6749-10",
+    "op_det": "6749-10-POLO MANGA CORTA",
+    "num_op": "6749"
+  },
+  "84332491": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-11",
+    "op_det": "6749-11-Camiseta polo",
+    "num_op": "6749"
+  },
+  "84332520": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-12",
+    "op_det": "6749-12-POLO MANGA CORTA",
+    "num_op": "6749"
+  },
+  "84332548": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-13",
+    "op_det": "6749-13-Camiseta polo",
+    "num_op": "6749"
+  },
+  "84332575": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-14",
+    "op_det": "6749-14-Camiseta polo",
+    "num_op": "6749"
+  },
+  "84332604": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-15",
+    "op_det": "6749-15-Camiseta polo",
+    "num_op": "6749"
+  },
+  "84332632": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6749-16",
+    "op_det": "6749-16-Camiseta polo",
+    "num_op": "6749"
+  },
+  "84311699": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6747-1",
+    "op_det": "6747-1-POLO MANGA CORTA",
+    "num_op": "6747"
+  },
+  "84311775": {
+    "fase": "5 satelites",
+    "confianza": "media",
+    "evidencia": "marc=activa",
+    "clave": "6747-2",
+    "op_det": "6747-2-POLO MANGA CORTA",
+    "num_op": "6747"
+  },
+  "84311809": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6747-3",
+    "op_det": "6747-3-POLO MANGA CORTA",
+    "num_op": "6747"
+  },
+  "84311888": {
+    "fase": "2 trazo",
+    "confianza": "media",
+    "evidencia": "comp=DISPONIBLE+en_corte_sheet",
+    "clave": "6747-4",
+    "op_det": "6747-4-Camiseta polo",
+    "num_op": "6747"
+  },
+  "84311921": {
+    "fase": "5 satelites",
+    "confianza": "alta",
+    "evidencia": "sat=PENDIENTE",
+    "clave": "6747-5",
+    "op_det": "6747-5-Camiseta polo",
+    "num_op": "6747"
+  }
+}

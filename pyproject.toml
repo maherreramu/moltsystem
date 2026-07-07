@@ -1,0 +1,28 @@
+[project]
+name = "moltsystem"
+version = "0.1.0"
+description = "Sistema de producción Molt SAS — iter-1 gobierno operativo"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    { name = "Mateo Herrera", email = "mateo.herrera@molt.com.co" }
+]
+license = { text = "Proprietary" }
+
+dependencies = [
+    "supabase>=2.9.0",
+    "pandas>=2.2.0",
+    "openpyxl>=3.1.0",
+    "python-dotenv>=1.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.6.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 100

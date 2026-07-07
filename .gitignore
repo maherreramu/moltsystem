@@ -1,0 +1,44 @@
+# Env
+.env
+.env.local
+.env*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+*.egg-info/
+dist/
+
+# Data (nunca commitear datos reales)
+data/input_impel/
+data/operacion/
+data/output/
+data/clickup_snapshot.json
+
+# Next.js
+app/.next/
+app/node_modules/
+app/.vercel/
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# ETL temp files y archivos de diagnóstico (prefijo _)
+scripts/_data.json
+scripts/_sql_batches/
+scripts/_extract_for_sql.py
+scripts/_gen_sql.py
+scripts/_*.sql
+scripts/_*.py
+scripts/_*.json
